@@ -1,0 +1,5 @@
+Os arquivos abaixo controlam a exibição dos nomes no site:
+
+• iname.js → exibe o nome de quem está enviando (você);
+
+• name.js → exibe o nome de quem está recebendo (seu parceiro[a]).

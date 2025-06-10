@@ -1,0 +1,2 @@
+Estes são os arquivos de configuração de imagens e logotipos. 
+Ao realizar substituições, utilize o mesmo nome do arquivo original para garantir compatibilidade e evitar conflitos.

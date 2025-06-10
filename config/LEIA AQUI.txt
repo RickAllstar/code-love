@@ -1,0 +1,5 @@
+Essas duas pastas são essenciais para o funcionamento do site, e é nelas que você pode personalizar tudo do seu jeito:
+
+Pasta texts: controla todos os textos exibidos no site. Fique à vontade para editar e deixar tudo com a sua cara.
+
+Pasta names: responsável por mostrar os nomes no site — tanto o seu (remetente) quanto o da pessoa que vai receber (seu parceiro ou parceira).

@@ -1,0 +1,2 @@
+A seguir estão os arquivos JavaScript responsáveis pelo funcionamento do site. 
+Não é necessário alterá-los, a menos que haja intenção de otimizá-los ou aprimorá-los.
